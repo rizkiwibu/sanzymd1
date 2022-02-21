@@ -313,7 +313,7 @@ url: 'https://sanzykey.herokuapp.com/api'
 }, {
 urlButton: {
 displayText: '𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝑶𝒘𝒏𝒆𝒓',
-url: 'https://youtube.com/c/sanzyyt/'
+url: 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA'
 }
 }, {
 quickReplyButton: {
